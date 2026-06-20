@@ -38,7 +38,7 @@ The Coffee Quality Institute (CQI) database — around 1,300 professionally grad
 
 Interactive Streamlit app: enter a coffee's ten cupping scores, pick its country, and it predicts washed or natural with a confidence estimate.
 
-Live demo: _[add your Streamlit link here once deployed]_
+Live demo: https://coffee-ml-2nwqfr8pc4xdhbb3ojy3cq.streamlit.app/
 
 ## How to run
 
